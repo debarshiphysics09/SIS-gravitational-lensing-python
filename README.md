@@ -19,7 +19,7 @@ This repository provides a simple Python script to simulate strong gravitational
 
 If you use this code, please cite:
 
-Debarshi Mukherjee. (2025). debarshi99mukherjee/SIS-gravitational-lensing-python: Initial public release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Debarshi Mukherjee. (2025). debarshiphysics09/SIS-gravitational-lensing-python: Initial public release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16759616
 
 ## Installation
 
